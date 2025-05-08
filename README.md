@@ -4,7 +4,7 @@ A simple Flask backend template using NVIDIA DeepSeek API for building AI-powere
 
 ## 🚀 Features
 
-- Uses [NVIDIA's DeepSeek R1](https://developer.nvidia.com/deepseek) model for chat/fact-checking
+- Uses [NVIDIA's DeepSeek R1](https://build.nvidia.com/deepseek-ai/deepseek-r1) model for chat/fact-checking
 - Cleaned HTML output formatting
 - Built-in Flask + CORS setup for frontend integration
 - .env support for clean API key handling
