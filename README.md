@@ -1,4 +1,4 @@
-# DeepSeek FactCheck Flask API 🔍
+# Deepseek flast starter
 
 A simple Flask backend template using NVIDIA DeepSeek API for building AI-powered fact-checking applications.
 
